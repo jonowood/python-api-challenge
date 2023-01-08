@@ -131,3 +131,5 @@ dmypy.json
 # Adding config.py file.
 
 /WeatherPy/api_keys.py
+WeatherPy/VacationPy - Copy.ipynb
+WeatherPy/WeatherPy - Copy.ipynb
