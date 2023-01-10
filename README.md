@@ -75,6 +75,11 @@ Sample scatter plot with the linear regression line.
 You should create the following plots:
 
 Northern Hemisphere: Temperature (C) vs. Latitude
+</br>
+</br>
+<img src="WeatherPy/output_data/Fig1.png" alt="Northern Hemisphere: Temperature (C) vs. Latitude" title="" class="center">
+</br>
+</br>
 
 Southern Hemisphere: Temperature (C) vs. Latitude
 
