@@ -77,56 +77,56 @@ You should create the following plots:
 Northern Hemisphere: Temperature (C) vs. Latitude
 </br>
 </br>
-<img src="WeatherPy/output_data/Fig1.png" alt="Northern Hemisphere: Temperature (C) vs. Latitude" title="" class="center">
+<img src="WeatherPy/output_data/Fig1.png" alt="Northern Hemisphere: Temperature (C) vs. Latitude" title="" class="center" width="600" height="500">
 </br>
 </br>
 
 Southern Hemisphere: Temperature (C) vs. Latitude
 </br>
 </br>
-<img src="WeatherPy/output_data/Fig2.png" alt="Southern Hemisphere: Temperature (C) vs. Latitude" title="" class="center">
+<img src="WeatherPy/output_data/Fig2.png" alt="Southern Hemisphere: Temperature (C) vs. Latitude" title="" class="center" width="600" height="500">
 </br>
 </br>
 
 Northern Hemisphere: Humidity (%) vs. Latitude
 </br>
 </br>
-<img src="WeatherPy/output_data/Fig3.png" alt="Northern Hemisphere: Humidity (%) vs. Latitude" title="" class="center">
+<img src="WeatherPy/output_data/Fig3.png" alt="Northern Hemisphere: Humidity (%) vs. Latitude" title="" class="center" width="600" height="500">
 </br>
 </br>
 
 Southern Hemisphere: Humidity (%) vs. Latitude
 </br>
 </br>
-<img src="WeatherPy/output_data/Fig1.png" alt="Southern Hemisphere: Humidity (%) vs. Latitude" title="" class="center">
+<img src="WeatherPy/output_data/Fig1.png" alt="Southern Hemisphere: Humidity (%) vs. Latitude" title="" class="center" width="600" height="500">
 </br>
 </br>
 
 Northern Hemisphere: Cloudiness (%) vs. Latitude
 </br>
 </br>
-<img src="WeatherPy/output_data/Fig4.png" alt="Northern Hemisphere: Cloudiness (%) vs. Latitude" title="" class="center">
+<img src="WeatherPy/output_data/Fig4.png" alt="Northern Hemisphere: Cloudiness (%) vs. Latitude" title="" class="center" width="600" height="500">
 </br>
 </br>
 
 Southern Hemisphere: Cloudiness (%) vs. Latitude
 </br>
 </br>
-<img src="WeatherPy/output_data/Fig5.png" alt="Southern Hemisphere: Cloudiness (%) vs. Latitude" title="" class="center">
+<img src="WeatherPy/output_data/Fig5.png" alt="Southern Hemisphere: Cloudiness (%) vs. Latitude" title="" class="center" width="600" height="500">
 </br>
 </br>
 
 Northern Hemisphere: Wind Speed (m/s) vs. Latitude
 </br>
 </br>
-<img src="WeatherPy/output_data/Fig6.png" alt="Northern Hemisphere: Wind Speed (m/s) vs. Latitude" title="" class="center">
+<img src="WeatherPy/output_data/Fig6.png" alt="Northern Hemisphere: Wind Speed (m/s) vs. Latitude" title="" class="center" width="600" height="500">
 </br>
 </br>
 
 Southern Hemisphere: Wind Speed (m/s) vs. Latitude
 </br>
 </br>
-<img src="WeatherPy/output_data/Fig7.png" alt="Southern Hemisphere: Wind Speed (m/s) vs. Latitude" title="" class="center">
+<img src="WeatherPy/output_data/Fig7.png" alt="Southern Hemisphere: Wind Speed (m/s) vs. Latitude" title="" class="center" width="600" height="500">
 </br>
 </br>
 
@@ -145,7 +145,7 @@ Create a map that displays a point for every city in the city_data_df DataFrame 
 
 </br>
 </br>
-<img src="WeatherPy/output_data/map_plot.png" alt="Map Plot with Humidity" title="" class="center">
+<img src="WeatherPy/output_data/map_plot.png" alt="Map Plot with Humidity" title="" class="center" width="800" height="500">
 </br>
 </br>
 
@@ -172,6 +172,6 @@ Hotel map
 
 </br>
 </br>
-<img src="WeatherPy/output_data/hotel_plot.png" alt="Map Plot with Humidity" title="" class="center">
+<img src="WeatherPy/output_data/hotel_plot.png" alt="Map Plot with Humidity" title="" class="center" width="800" height="500">
 </br>
 </br>
