@@ -66,6 +66,32 @@ To fulfill the first requirement, you'll use the OpenWeatherMap API to retrieve 
 
 - Latitude vs. Wind Speed
 
+</br>
+</br>
+<img src="WeatherPy/output_data/Fig1.png" alt="" title="" class="center" width="600" height="500">
+</br>
+</br>
+
+</br>
+</br>
+<img src="WeatherPy/output_data/Fig2.png" alt="" title="" class="center" width="600" height="500">
+</br>
+</br>
+
+</br>
+</br>
+<img src="WeatherPy/output_data/Fig3.png" alt="" title="" class="center" width="600" height="500">
+</br>
+</br>
+
+
+</br>
+</br>
+<img src="WeatherPy/output_data/Fig4.png" alt="" title="" class="center" width="600" height="500">
+</br>
+</br>
+
+
 #### Requirement 2: Compute Linear Regression for Each Relationship
 To fulfill the second requirement, compute the linear regression for each relationship. Separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude). You may find it helpful to define a function in order to create the linear regression plots.
 
@@ -74,59 +100,56 @@ Next, create a series of scatter plots. Be sure to include the linear regression
 Sample scatter plot with the linear regression line.
 You should create the following plots:
 
-Northern Hemisphere: Temperature (C) vs. Latitude
 </br>
 </br>
-<img src="WeatherPy/output_data/Fig1.png" alt="Northern Hemisphere: Temperature (C) vs. Latitude" title="" class="center" width="600" height="500">
-</br>
-</br>
-
-Southern Hemisphere: Temperature (C) vs. Latitude
-</br>
-</br>
-<img src="WeatherPy/output_data/Fig2.png" alt="Southern Hemisphere: Temperature (C) vs. Latitude" title="" class="center" width="600" height="500">
+<img src="WeatherPy/output_data/Fig5.png" alt="" title="" class="center" width="600" height="500">
 </br>
 </br>
 
-Northern Hemisphere: Humidity (%) vs. Latitude
+
 </br>
 </br>
-<img src="WeatherPy/output_data/Fig3.png" alt="Northern Hemisphere: Humidity (%) vs. Latitude" title="" class="center" width="600" height="500">
+<img src="WeatherPy/output_data/Fig6.png" alt="" title="" class="center" width="600" height="500">
 </br>
 </br>
 
-Southern Hemisphere: Humidity (%) vs. Latitude
+
 </br>
 </br>
-<img src="WeatherPy/output_data/Fig1.png" alt="Southern Hemisphere: Humidity (%) vs. Latitude" title="" class="center" width="600" height="500">
+<img src="WeatherPy/output_data/Fig7.png" alt="" title="" class="center" width="600" height="500">
 </br>
 </br>
 
-Northern Hemisphere: Cloudiness (%) vs. Latitude
+
 </br>
 </br>
-<img src="WeatherPy/output_data/Fig4.png" alt="Northern Hemisphere: Cloudiness (%) vs. Latitude" title="" class="center" width="600" height="500">
+<img src="WeatherPy/output_data/Fig8.png" alt="" title="" class="center" width="600" height="500">
 </br>
 </br>
 
-Southern Hemisphere: Cloudiness (%) vs. Latitude
 </br>
 </br>
-<img src="WeatherPy/output_data/Fig5.png" alt="Southern Hemisphere: Cloudiness (%) vs. Latitude" title="" class="center" width="600" height="500">
-</br>
-</br>
-
-Northern Hemisphere: Wind Speed (m/s) vs. Latitude
-</br>
-</br>
-<img src="WeatherPy/output_data/Fig6.png" alt="Northern Hemisphere: Wind Speed (m/s) vs. Latitude" title="" class="center" width="600" height="500">
+<img src="WeatherPy/output_data/Fig9.png" alt="" title="" class="center" width="600" height="500">
 </br>
 </br>
 
-Southern Hemisphere: Wind Speed (m/s) vs. Latitude
+
 </br>
 </br>
-<img src="WeatherPy/output_data/Fig7.png" alt="Southern Hemisphere: Wind Speed (m/s) vs. Latitude" title="" class="center" width="600" height="500">
+<img src="WeatherPy/output_data/Fig10.png" alt="" title="" class="center" width="600" height="500">
+</br>
+</br>
+
+
+</br>
+</br>
+<img src="WeatherPy/output_data/Fig11.png" alt="" title="" class="center" width="600" height="500">
+</br>
+</br>
+
+</br>
+</br>
+<img src="WeatherPy/output_data/Fig12.png" alt="" title="" class="center" width="600" height="500">
 </br>
 </br>
 
